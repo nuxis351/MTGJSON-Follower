@@ -1,0 +1,51 @@
+cards:
+  - name: "Nyx Weaver"
+    set: "JOU"
+    type: "normal"
+    quantity: 4
+
+  - name: "Citadel Castellan"
+    set: "ORI"
+    type: "normal"
+    quantity: 4
+
+  - name: "Sultai Soothsayer"
+    set: "KTK"
+    type: "normal"
+    quantity: 8
+
+  - name: "Frontier Bivouac"
+    set: "KTK"
+    type: "normal"
+    quantity: 4
+
+  - name: "Shimmering Grotto"
+    set: "M14"
+    type: "normal"
+    quantity: 3
+
+  - name: "Sultai Charm"
+    set: "KTK"
+    type: "normal"
+    quantity: 4
+
+  - name: "Fanatic of Xenagos"
+    set: "BNG"
+    type: "normal"
+    quantity: 4
+
+  - name: "Temur Charm"
+    set: "KTK"
+    type: "normal"
+    quantity: 4
+
+  - name: "Kiora's Follower"
+    set: "BNG"
+    type: "normal"
+    quantity: 4
+
+  - name: "Horizon Chimera"
+    set: "THS"
+    type: "normal"
+    quantity: 4
+

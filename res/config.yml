@@ -1,0 +1,5 @@
+paths:
+  ALL_CARDS_PATH: "./res/AllPrintings.json"
+  ALL_PRICES_PATH: "./res/AllPrices.json"
+  ALL_CARDS_REDUCED_PATH: "./res/AllPrintingsReduced.json"
+  CARD_LIST_PATH: "./res/CardList.yml"
